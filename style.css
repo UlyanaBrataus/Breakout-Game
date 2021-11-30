@@ -15,7 +15,7 @@ body {
 
 h1 {
   font-size: 45px;
-  color: #fff;
+  color: rgb(238, 220, 183);
 }
 
 canvas {
@@ -30,7 +30,7 @@ canvas {
   border-radius: 5px;
   padding: 10px 20px;
   background: #000;
-  color: #fff;
+  color: rgb(238, 220, 183);
 }
 
 .btn:focus {
@@ -49,6 +49,7 @@ canvas {
   position: absolute;
   top: 30px;
   left: 30px;
+  background-color: rgb(187, 106, 31);
 }
 
 .rules {
@@ -56,7 +57,7 @@ canvas {
   top: 0;
   left: 0;
   background: #333;
-  color: #fff;
+  color: rgb(238, 220, 183);
   min-height: 100vh;
   width: 400px;
   padding: 20px;
