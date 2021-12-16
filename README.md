@@ -1,1 +1,1 @@
-Breakout game project on canvas
+Breakout game on canvas: https://breakoutgamebrataus.netlify.app
